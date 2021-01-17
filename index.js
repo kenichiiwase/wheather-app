@@ -33,7 +33,7 @@ async function weatherMailSend() {
     // メールの内容
     const mailOptions1 = {
         to: 'ご自信のGmailアドレス', 
-        subject: nowdate+' :本日のお天気',
+        subject: `${nowdate} :本日のお天気`,
         text: '本日の天気は、、、、' + weatherresult + 'です。'
     };
     try{
