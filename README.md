@@ -17,6 +17,6 @@ https://nodejs.org/ja にてNodeをインストールする
 ## 実行方法  
 リポジトリをクローンする　`https://github.com/kenichiiwase/wheather-app.git`  
 モジュールをインストールする　`npm install XXXXX`  
-メールアドレス、パスワード、APIキーを自身のものに書き換える。
+メールアドレス、パスワード、APIキーを自身のものに書き換える。  
 ターミナルにて`node index.js`を実行し、画面を起動する `http://localhost:3000/`
 
