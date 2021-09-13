@@ -3,9 +3,6 @@
 ## 機能 
 毎朝9時に天気をメールに通知  
 
-## 使用手順
-メールアドレス、パスワード、APIキーを自身のものに書き換える。
-
 ## 動作環境  
 - date-utils: 1.2.21  
 - node-cron: 2.0.3  
@@ -20,5 +17,6 @@ https://nodejs.org/ja にてNodeをインストールする
 ## 実行方法  
 リポジトリをクローンする　`https://github.com/kenichiiwase/wheather-app.git`  
 モジュールをインストールする　`npm install XXXXX`  
+メールアドレス、パスワード、APIキーを自身のものに書き換える。
 ターミナルにて`node index.js`を実行し、画面を起動する `http://localhost:3000/`
 
