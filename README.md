@@ -18,5 +18,5 @@ https://nodejs.org/ja にてNodeをインストールする
 1. `npm install`を実行する    
 2. メールアドレス、パスワード、APIキーを自身のものに書き換える  
 3. `npm run start`を実行する  
-4. `http://localhost:3000/`で画面を開く
+4. `http://localhost:3000/`でアクセス  
 
