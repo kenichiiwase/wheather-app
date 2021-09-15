@@ -1,4 +1,4 @@
-# scraping-weather-app
+# weather-app
 
 ## 機能 
 毎朝9時に天気をメールに通知  
